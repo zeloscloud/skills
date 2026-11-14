@@ -35,8 +35,6 @@ What I have:
 - Protocol: <what you know, or attach the document>
 - Samples: <raw bytes or lines from the device>
 - I want to see: <the values, with units>
-
-Do not send anything to the device.
 ```
 
 You need the [Zelos CLI](https://docs.zeloscloud.io/latest/getting-started/install-cli/)

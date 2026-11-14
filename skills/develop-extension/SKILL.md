@@ -12,8 +12,7 @@ first live signal needs. Skip settings-form polish, extra actions, extra
 tests, a README. Offer those afterwards (step 4).
 
 Take the connection details, the protocol and the wanted values from the
-request. Ask only if you cannot connect or decode without the answer. Never
-write to the device unless the user asked: extensions sit on live machinery.
+request. Ask only if you cannot connect or decode without the answer.
 
 ## 1. Scaffold
 
